@@ -1,4 +1,5 @@
-group :test do
-  gem 'simplecov'
-  gem 'simplecov-rcov'
-end
+# gem "rails"
+source 'https://rubygems.org'
+
+gem 'simplecov'
+gem 'simplecov-rcov'
